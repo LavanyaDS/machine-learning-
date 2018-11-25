@@ -1,2 +1,2 @@
 # machine-learning-
-ALL ALGORITHMS
+supervised learing
